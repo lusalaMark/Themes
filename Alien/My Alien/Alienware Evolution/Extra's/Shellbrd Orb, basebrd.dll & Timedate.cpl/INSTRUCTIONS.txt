@@ -1,0 +1,11 @@
+Copy basebrd.dll and paste at 
+C:\Windows\Branding\Basebrd
+It will ask you for replace.. don't replace.. first make the backup.
+
+Copy shellbrd.dll and paste at 
+C:\Windows\Branding\Shellbrd
+It will ask you for replace.. don't replace.. first make the backup.
+
+Now copy timedate.cpl to 
+C:\windows\system32
+ it will also ask for replacing but dont replace before making backup.
