@@ -1,2 +1,2 @@
 # Themes
-Themes for wimdows Operating System
+Themes for windows Operating System
